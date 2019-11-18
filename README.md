@@ -13,5 +13,5 @@ Tutorial Setting Email G Suite untuk custom domain
 ### How to setting SPF TXT Record
 1. Buka link untuk tutorial https://support.google.com/a/answer/33786
 
-### How to setting SPF TXT Record
+### How to setting DKIM TXT Record
 1. Buka link untuk tutorial https://support.google.com/a/answer/174126
